@@ -44,12 +44,15 @@ python scripts/summarize_benchmark.py --data ../zenodo_data
 
 ## Data package
 
-The machine-readable source data are released separately on Zenodo. Place the
-Zenodo folder next to this repository, or pass its location with `--data`.
+The machine-readable derived data are released separately on Zenodo:
+https://doi.org/10.5281/zenodo.20443828
+
+Place the Zenodo folder next to this repository, or pass its location with
+`--data`.
 
 ## Citation
 
-If you use this benchmark, please cite the accompanying manuscript and the Zenodo
-dataset DOI once available.
+If you use this benchmark, please cite the accompanying manuscript and the
+Zenodo dataset: https://doi.org/10.5281/zenodo.20443828.
 
 
